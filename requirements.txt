@@ -1,12 +1,12 @@
 beautifulsoup4
 duckdb
 fastapi
-google-generativeai
+google-generativeai==0.8.3
 html5lib
 httpx
-langchain
-langchain-core
-langchain-google-genai
+langchain==0.2.16
+langchain-core==0.2.9
+langchain-google-genai==1.0.7
 lxml
 matplotlib
 networkx
@@ -14,6 +14,8 @@ numpy
 openpyxl
 pandas
 pillow
+psutil
+pydantic==2.7.4
 python-dotenv
 python-multipart
 pyarrow
@@ -22,4 +24,3 @@ scikit-learn
 seaborn
 tabulate
 uvicorn[standard]
-psutil
