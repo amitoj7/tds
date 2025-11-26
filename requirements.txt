@@ -4,7 +4,7 @@ python-multipart
 requests
 python-dotenv
 httpx
-
+pandas
 langchain
 langchain-core
 langchain-google-genai
