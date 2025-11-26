@@ -1,11 +1,11 @@
 beautifulsoup4
 duckdb
 fastapi
-google-generativeai==0.8.3
+google-generativeai==0.7.2
 html5lib
 httpx
 langchain==0.2.16
-langchain-core==0.2.9
+langchain-core==0.2.41
 langchain-google-genai==1.0.7
 lxml
 matplotlib
